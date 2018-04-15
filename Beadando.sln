@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beadando", "Beadando\Beadando.csproj", "{BC109023-06CD-47F5-A209-9F1D16946FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeadandoTests", "BeadandoTests\BeadandoTests.csproj", "{6EE39EAE-A159-4A4B-894E-5689D22C65C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC109023-06CD-47F5-A209-9F1D16946FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC109023-06CD-47F5-A209-9F1D16946FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC109023-06CD-47F5-A209-9F1D16946FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC109023-06CD-47F5-A209-9F1D16946FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE39EAE-A159-4A4B-894E-5689D22C65C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE39EAE-A159-4A4B-894E-5689D22C65C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE39EAE-A159-4A4B-894E-5689D22C65C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE39EAE-A159-4A4B-894E-5689D22C65C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
